@@ -1,4 +1,4 @@
-# <img width="16" height="16" alt="logo" src="https://github.com/user-attachments/assets/db320483-2faf-4bc2-9b52-1dca012128a5" /> Offline-Launcher
+# <img width="32" height="32" alt="logo" src="https://github.com/user-attachments/assets/db320483-2faf-4bc2-9b52-1dca012128a5" /> Offline-Launcher
 
 A custom Minecraft launcher and client built with Fabric, optimized for performance, seamless mod management, and clean instance isolation.
 
