@@ -1,7 +1,5 @@
 # <img width="32" height="32" alt="logo" src="https://github.com/user-attachments/assets/db320483-2faf-4bc2-9b52-1dca012128a5" /> Offline-Launcher
 
----
-
 ## Features
 
 * **Lightweight & Fast:**
