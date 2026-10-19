@@ -2,10 +2,10 @@
 
 ## Features
 
-* **Lightweight & Fast:**
-* **Instance Management:** Keep your save worlds, modpacks, and server configs completely separated.
-* **Offline & Online Play:** Streamlined account and session configuration.
-* **Good Looking UIs:** The best Minecraft launcher UI you'll ever see.
+* **Lightweight & Fast**
+* **Instance Management**
+* **Offline & Online Play**
+* **Good Looking UIs**
 
 ---
 
