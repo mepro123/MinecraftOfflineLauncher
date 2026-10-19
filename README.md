@@ -1,15 +1,14 @@
 # <img width="32" height="32" alt="logo" src="https://github.com/user-attachments/assets/db320483-2faf-4bc2-9b52-1dca012128a5" /> Offline-Launcher
 
-A custom Minecraft launcher and client built with Fabric, optimized for performance, seamless mod management, and clean instance isolation.
-
+A Minecraft Launcher built with Electron, Optimized, Seamless mod management, Best UI.
 ---
 
-## ⚡ Features
+## Features
 
-* **Lightweight & Fast:** Minimal runtime overhead focused on speed and smooth gameplay.
-* **Fabric & Modpack Support:** Designed around modern Fabric loaders and custom client modifications.
+* **Lightweight & Fast:**
 * **Instance Management:** Keep your save worlds, modpacks, and server configs completely separated.
 * **Offline & Online Play:** Streamlined account and session configuration.
+* **Good Looking UIs:** The best Minecraft launcher UI you'll ever see.
 
 ---
 
